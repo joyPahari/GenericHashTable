@@ -23,6 +23,6 @@ We have implemented Generic HashTable excpeting Integer, string or Double type o
 
 ## AVL Tree
 AVL Tree is height balanced tree which auto-balances by Tree Rotation. <br />
-All 4 rotations are implemented in AVLTree<T>.java, here T represents Generic Type.
+All 4 rotations are implemented in ```AVLTree<T>.java```, here T represents Generic Type.
 
 #### For any queries please mail at hardikagarwal1703@gmail.com
