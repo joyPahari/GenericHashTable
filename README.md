@@ -26,3 +26,4 @@ AVL Tree is height balanced tree which auto-balances by Tree Rotation. <br />
 All 4 rotations are implemented in ```AVLTree<T>.java```, here T represents Generic Type.
 
 #### For any queries please mail at hardikagarwal1703@gmail.com
+#### Note: Refer to png files for better understanding.
